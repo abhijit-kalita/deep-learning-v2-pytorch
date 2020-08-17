@@ -26,10 +26,12 @@ The data used is the provided dataset from Udacity
 ## Dependencies
 
 opencv-python
-h5py==2.6.0
-matplotlib==2.0.0
-numpy==1.12.0
-scipy==0.18.1
-tqdm==4.11.2
+
+matplotlib
+
+numpy
+
+tqdm
+
 pytorch
-scikit-learn==0.18.1
+
